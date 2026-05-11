@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Users\caleb.crome\Documents\oshw-active-probe\board\Probe.PcbDoc
+RuleKind=Width|RuleName=Width_S50|Scope=Board|Minimum=5.70
+RuleKind=Clearance|RuleName=Clearance_RF_S50|Scope=Board|Minimum=20.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
